@@ -1,0 +1,31 @@
+{
+  "name": "setup-nodejs",
+  "version": "1.0.0",
+  "description": "proj demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brenofs1997/setup-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "demo"
+  ],
+  "author": "Breno Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brenofs1997/setup-nodejs/issues"
+  },
+  "homepage": "https://github.com/brenofs1997/setup-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
